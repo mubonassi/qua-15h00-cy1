@@ -6,7 +6,7 @@
 numero = int(input("Digite um número para ser verificado: "))
 
 #se (condição) então {ação}
-if numero == True:
+if numero == 13:
     print("Você digitou o número 13")
 #senão {ação}
 else:

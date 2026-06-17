@@ -13,3 +13,8 @@ print(f"Lista Mista: {listaM}")
 print(f"Exibindo o Item 1 da Lista S: {listaS[0]}")
 print(f"Exibindo o Item 6 da Lista I: {listaI[5]}")
 print(f"Exibindo qualquer Item da Lista M: {listaM[4]}")
+
+#Verificando item na lista
+valor = "a"
+if valor in listaS:
+    print("Está na lista")
